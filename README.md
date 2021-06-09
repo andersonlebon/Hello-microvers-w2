@@ -22,7 +22,7 @@ This project is build with:
 - HTML
 - CSS
 
-[Link Demo](https://andersonlebon.github.io/hello-microvers-w2/)
+[Link Demo](https://andersonlebon.github.io/Hello-microvers-w2/)
 
 ## Getting Started
 
